@@ -12,11 +12,12 @@
 .head img{
     width: 100%;
     size: 50px;
+    
 }
 .head-color{
     color: rgb(245, 165, 73);
 }
-h1{
+h2{
     font-size: 70px;
     padding-left: 10px;
 }
@@ -36,4 +37,31 @@ h1{
     border-radius: 7px;
     font-family: 'Poppins', sans-serif;
     
+}
+#center{
+    text-align: center;
+    border-left: none 50px;
+    margin-left: 300px;
+    font-family: 'Poppins', sans-serif;
+}
+.nd-section{
+    
+    background-color: rgba(106, 188, 255, 0.555);
+    box-shadow: 10px 20px 50px;
+    border-left: 20px;
+    width: 270px;
+    height: 485px;
+    margin-left: 200px;
+    border-radius: 9px;
+    
+}
+.nd-section img{
+    width: 100%;
+}
+#second-sec{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+.paragraph{
+    text-align: center;
 }
