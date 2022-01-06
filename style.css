@@ -36,7 +36,7 @@ h2{
     padding: 15px 40px;
     border-radius: 7px;
     font-family: 'Poppins', sans-serif;
-    
+    border-top: white 20px;
 }
 #center{
     text-align: center;
@@ -47,12 +47,13 @@ h2{
 .nd-section{
     
     background-color: rgba(106, 188, 255, 0.555);
-    box-shadow: 10px 20px 50px;
+    box-shadow: 10px 10px 50px;
     border-left: 20px;
     width: 270px;
-    height: 485px;
+    height: 480px;
     margin-left: 200px;
     border-radius: 9px;
+    margin-bottom: 50px;
     
 }
 .nd-section img{
@@ -64,4 +65,58 @@ h2{
 }
 .paragraph{
     text-align: center;
+}
+.therd-sec{
+    display: flex;
+    font-family: 'Poppins', sans-serif;   
+}
+.therd-fx{
+    width: 50%;
+    padding: 5%;
+    display: flex;
+    margin-top: 150px;
+}
+.therd-fx img{
+    width: 500px;
+    margin-left: 100px;
+    
+    
+}    
+.para2{
+   margin-left: 120px;
+   
+}
+.fourth-sec{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+.fourth-fx{
+    width: 50%;
+    padding: 5%;
+    display: flex;
+    margin-top: 150px;
+}
+.fourth-fx img{
+    width: 500px;
+    margin-left: 200px;
+}
+.year-color{
+    color: tomato;
+}
+.end{
+    background-color: black ;
+    background-size: 50px 100px;
+    margin: 0;
+    padding: 50px;
+}
+.mission-color{
+     color: white;
+}
+body{
+    margin: 0;
+}
+footer{
+    color: rgba(255, 255, 255, 0.705);
+    text-align: center;
+    
 }
