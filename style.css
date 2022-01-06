@@ -120,3 +120,35 @@ footer{
     text-align: center;
     
 }
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.background{
+    background-color: skyblue;
+    background-position: 100%;
+    color: rgb(26, 10, 1);
+    text-align: center;
+    margin: 400px 500px;
+    text-decoration: none;
+    border-radius: 7px;
+    box-shadow: gray 10px 5px 50px;
+   
+}
+.span1{
+    color: red;
+}
+.paragraph{
+    padding: 5px;
+
+}
+h1{
+    padding-top: 20px;
+}
+#email{
+margin-bottom: 20px;
+}
+
+.input1{
+    padding-bottom: 20px;
+}
